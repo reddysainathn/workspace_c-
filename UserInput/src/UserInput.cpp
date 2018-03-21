@@ -10,12 +10,12 @@
 using namespace std;
 
 int main() {
-	cout << "Enter Input:" << flush;
+	cout << "Enter Input :" << flush;
 	string input;
 	cin >> input;
 	cout << "You Entered Input :" << input << endl;
 
-	cout << "Enter Value:" << flush;
+	cout << "Enter Value :" << flush;
 	int value;
 	cin >> value;
 	cout << "You Entered Value :" << value << endl;
